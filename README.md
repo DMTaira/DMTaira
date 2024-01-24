@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi! I am Dirce Mitiko Taira 👋
 
+- 🌱 I’m currently learning Java at Ada/Tech/Nuclea 50+ Program
+- ✉️ How to reach me: mitiko.kita@gmail.com
+- I'm from Sao Bernardo do Campo/SP- Brazil
+- I'm Japanese descendant - 2nd generation (nissei)
 <!--
 **DMTaira/DMTaira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
